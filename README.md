@@ -1,4 +1,4 @@
-# Projeto: Matriz RGB Tarefa
+# Projeto: LED semáforo Tarefa
 
 ## Descrição
 Este projeto implementa um semáforo utilizando a placa BitDogLab com o microcontrolador RP2040. O semáforo alterna entre os estados vermelho, amarelo e verde em intervalos de tempo definidos. O código está localizado no arquivo `matrizrgbtarefa.c`.
